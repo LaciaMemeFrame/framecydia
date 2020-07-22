@@ -55,7 +55,7 @@ function getContentBlocks() {
                 $("#descriptionList").append(
                     $("<a class='link-item list-group-item'>")
                     .attr("href","screenshots.html?p="+bundleid)
-                    .text("Screenshots")
+                    .text("Скриншоты")
                 );
             }
         },
@@ -79,7 +79,7 @@ function getContentBlocks() {
                 $("#changesList").append(
                     $("<a class='link-item list-group-item'>")
                     .attr("href","changelog.html?p="+bundleid)
-                    .text("Full Changelog")
+                    .text("Все изменения")
                 );
             }
         },
