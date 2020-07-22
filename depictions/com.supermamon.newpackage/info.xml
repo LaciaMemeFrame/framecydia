@@ -1,6 +1,6 @@
 <package>
 	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
+	<name>Тестовый твик</name>
 	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
@@ -10,10 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>Короткое описание</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>Полное описание.</description>
+		<description>Дополнительно.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
@@ -22,24 +22,24 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<description>Скриншот!</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<description>Скриншот2!</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Релиз</change>
+		<change>Добавлено одна фича</change>
+		<change>Добавлено вторая фича</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>Связаться с автором в Telegram</name>
+			<url>https://t.me/laciamemeframe</url>
+			<iconclass>fa fa-telegram</iconclass>
 		</link>
 	</links>
 </package>
