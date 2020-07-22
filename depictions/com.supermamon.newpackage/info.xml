@@ -1,22 +1,22 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<id>com.vsz.redeb</id>
+	<name>redeb</name>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>3.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>Делает резервную копию одного твика</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>это консальная утлита.</description>
+		<description>Для использования нужен терминал.</description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		redeb<br/> 
+		и имя пакета
 		]]>
 		</description>
 	</descriptionlist>
