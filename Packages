@@ -14,3 +14,20 @@ Description: Делает резервную копию одного твика
 Author: T.Herak <50dc856b@opayq.com>
 Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.vsz.redeb
 Name: redeb
+
+Package: com.ichitaso.dropbear
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
+Depends:
+Filename: ./debs/com.ichitaso.dropbear_1.0_iphoneos-arm.deb
+Size: 4144
+MD5sum: e9b4dce570417efcf8193b26a9e5b29b
+SHA1: 097324b16f748564365bca69a1c618cbc9a8aa3d
+SHA256: 097324b16f748564365bca69a1c618cbc9a8aa3d
+Section: Utilities
+Priority: extra
+Description: Включает ssh по Wi-Fi
+Author: LaciaMemeFrame <dima.skolpin@icloud.com>
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.ichitaso.dropbear
+Name: dropbear
