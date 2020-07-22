@@ -1,2 +1,6 @@
 # framecydia
- My tweak repository for iOS
+ Cydia repository
+
+## Changelog
+### v1.0
+- Initial release
