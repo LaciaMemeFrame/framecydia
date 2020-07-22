@@ -22,9 +22,11 @@
 		    <screenshot>
 			<description>Вводим цифру твика который хотим запаковать в .deb</description>
 			<image>2.png</image>
+			</screenshot>
+			<screenshot>
 			<description>Запакованый твик находится в этой дериктории /private/var/mobile/Documents/Redeb/debs</description>
 			<image>3.png</image>
-		   </screenshot>
+		    </screenshot>
 	</screenshots>
 	<changelog>
 		<change><![CDATA[ !!! ВАЖНАЯ ЗАМЕТКА !!! ПЕРЕД УСТАНОВКОЙ ЭТОГО ОБНОВЛЕНИЯ, ПОЖАЛУЙСТА, СОЗДАЙТЕ РЕЗЕРВНЫЙ ПАКЕТ /var/mobile/Redeb/debs. ЭТО ДОЛЖНО БЫТЬ СДЕЛАНО ИЗ-ЗА МЕТОДА POSTRM, КОТОРЫЙ К сожалению не может быть обойден, НО УДАЛЕН В ЭТОЙ ВЕРСИИ REDEB. ПРОСТИТЕ ЗА ЭТО !. <br> <br>
