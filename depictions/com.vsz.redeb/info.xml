@@ -5,41 +5,18 @@
 	<compatibility>
 		<firmware>
 			<miniOS>3.0</miniOS>
+			<maxiOS>9.3.3</maxiOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)</package>
-	</dependencies>
-	<shortDescription>Делает резервную копию одного твика</shortDescription>
+	<dependencies>bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)</dependencies>
 	<descriptionlist>
-		<description>это консальная утлита.</description>
-		<description>Для использования нужен терминал.</description>
-		<description><![CDATA[
-		redeb<br/> 
-		и имя пакета
-		]]>
-		</description>
+		<description>Делает резервную копию одного твика</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change><![CDATA[ !!! ВАЖНАЯ ЗАМЕТКА !!! ПЕРЕД УСТАНОВКОЙ ЭТОГО ОБНОВЛЕНИЯ, ПОЖАЛУЙСТА, СОЗДАЙТЕ РЕЗЕРВНЫЙ ПАКЕТ /var/mobile/Redeb/debs. ЭТО ДОЛЖНО БЫТЬ СДЕЛАНО ИЗ-ЗА МЕТОДА POSTRM, КОТОРЫЙ К сожалению не может быть обойден, НО УДАЛЕН В ЭТОЙ ВЕРСИИ REDEB. ПРОСТИТЕ ЗА ЭТО !. <br> <br>
+- Исправлен метод, который строит структуру пакета, чтобы иметь возможность обрабатывать каталоги в пути, а также имена файлов, которые содержат символ пробела /zero character. e.g. "/Library/Application Support" or "/Library/Themes/ayecon Home Screen.theme" итд.  ]]></change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>
