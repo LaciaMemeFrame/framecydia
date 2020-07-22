@@ -15,8 +15,8 @@
 		<description>Полное описание.</description>
 		<description>Дополнительно.</description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		Возможности<br/> 
+		тут.
 		]]>
 		</description>
 	</descriptionlist>
