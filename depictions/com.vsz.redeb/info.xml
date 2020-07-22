@@ -12,8 +12,20 @@
 	<dependencies>bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)</dependencies>
 	<descriptionlist>
 		<description>Делает резервную копию одного твика</description>
+		<description>Это консольная утилита для ее использования введите в своем терминале redeb и следуйте инструкциям.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+	        <screenshot>
+			<description>После ввода redeb нам предлагают показать список твиков</description>
+			<image>1.png</image>
+		    </screenshot>		
+		    <screenshot>
+			<description>Вводим цифру твика который хотим запаковать в .deb</description>
+			<image>2.jpg</image>
+			<description>Запакованый твик находится в этой дериктории /private/var/mobile/Documents/Redeb/debs</description>
+			<image>3.jpg</image>
+		   </screenshot>
+	</screenshots>
 	<changelog>
 		<change><![CDATA[ !!! ВАЖНАЯ ЗАМЕТКА !!! ПЕРЕД УСТАНОВКОЙ ЭТОГО ОБНОВЛЕНИЯ, ПОЖАЛУЙСТА, СОЗДАЙТЕ РЕЗЕРВНЫЙ ПАКЕТ /var/mobile/Redeb/debs. ЭТО ДОЛЖНО БЫТЬ СДЕЛАНО ИЗ-ЗА МЕТОДА POSTRM, КОТОРЫЙ К сожалению не может быть обойден, НО УДАЛЕН В ЭТОЙ ВЕРСИИ REDEB. ПРОСТИТЕ ЗА ЭТО !. <br> <br>
 - Исправлен метод, который строит структуру пакета, чтобы иметь возможность обрабатывать каталоги в пути, а также имена файлов, которые содержат символ пробела /zero character. e.g. "/Library/Application Support" or "/Library/Themes/ayecon Home Screen.theme" итд.  ]]></change>
