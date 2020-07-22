@@ -1,3 +1,5 @@
-.DS_Store
-.gitattributes
-.vscode
+.DS_store
+push.sh
+remove.sh
+update.sh
+packages.sh
