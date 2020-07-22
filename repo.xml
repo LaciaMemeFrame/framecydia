@@ -1,20 +1,14 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
+			<name>Подписаться на Twitter автора</name>
 			<url>https://twitter.com/laciamemeframe</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-<<<<<<< Updated upstream
-			<name>Описание</name>
-			<url>https://github.com/LaciaMemeFrame/framecydia</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
-=======
 			<name>Связаться с автором в Telegram</name>
 			<url>https://t.me/laciamemeframe</url>
 			<iconclass>fa fa-telegram</iconclass>
->>>>>>> Stashed changes
 		</link>
 	</footerlinks>
 </repo>
