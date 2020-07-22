@@ -1,0 +1,16 @@
+Package: com.vsz.redeb
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: T.Herak <50dc856b@opayq.com>
+Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
+Filename: ./debs//com.vsz.redeb_1.0.3_iphoneos-arm.deb
+Size: 3572
+MD5sum: b5aa8718f90044be937b72d9f4e7a1f5
+SHA1: 912a6cf3cea1c725df51bb54ad4f849f27bdfa08
+SHA256: 5ec1491fdf630cdb2cbf218a10557d45e5a23271e775b066553cea543cf31c80
+Section: Utilities
+Priority: extra
+Description: Делает резервную копию одного твика
+Author: T.Herak <50dc856b@opayq.com>
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.vsz.redeb
+Name: redeb
