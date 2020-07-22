@@ -16,14 +16,14 @@
 	</descriptionlist>
 	<screenshots>
 	        <screenshot>
-			<description>После ввода redeb нам предлагают показать список твиков</description>
+			<description>После ввода redeb нам предлагают показать список установленных твиков</description>
 			<image>1.png</image>
 		    </screenshot>		
 		    <screenshot>
 			<description>Вводим цифру твика который хотим запаковать в .deb</description>
-			<image>2.jpg</image>
+			<image>2.png</image>
 			<description>Запакованый твик находится в этой дериктории /private/var/mobile/Documents/Redeb/debs</description>
-			<image>3.jpg</image>
+			<image>3.png</image>
 		   </screenshot>
 	</screenshots>
 	<changelog>
