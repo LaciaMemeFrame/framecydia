@@ -4,10 +4,10 @@
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>3.0</miniOS>
+			<miniOS>1.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>firmware (>= 1.0)</dependencies>
 	<descriptionlist>
 		<description>Включает ssh по Wi-Fi</description>
 		<description>В обычном режиме ssh не работает на Wi-Fi.</description>
