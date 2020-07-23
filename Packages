@@ -38,6 +38,7 @@ Architecture: iphoneos-arm
 Maintainer: MatDev
 Depends: bash (>= 3.2), coreutils (>= 8.12-12p), coreutils-bin (>= 8.12-9), grep (>= 2.5.4-3), darwintools (>= 1-5), system-cmds (>= 433.8-14), gawk (>= 3.1.6-2p), firmware (>= 10.0)
 Filename: ./debs/com.matdev.neofetch-ios_1.0.0_iphoneos-arm.deb
+Icon: https://raw.githubusercontent.com/LaciaMemeFrame/laciamemeframe.space/master/images/favicon.png
 Size: 76126
 MD5sum: 30fa30384fe7a8705c0d5c74dd137f8c
 SHA1: 14cee3f76158d794680fc7dc47647bbdf4a724cc
