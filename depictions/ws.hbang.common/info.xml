@@ -18,10 +18,6 @@
 	</screenshots>
 	<changelog>
 		<change>Полностью удаляет зависимость TechSupport.</change>
-		<change>Больше не устанавливает зависимость RocketBootstrap от checkra1n и unc0ver jailbreaks.</change>
-		<change>Для разработчиков</change>
-		<change>Работает вокруг фотографий профиля Twitter не загружается.</change>
-		<change>Добавляет свойство avatarURL в HBLinkTableCell и HBTwitterCell, позволяя вам установить собственное изображение, такое как ваш аватар GitHub..</change>
 	</changelog>
 	<links></links>
 </package>
