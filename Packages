@@ -8,7 +8,7 @@ Size: 3572
 MD5sum: b5aa8718f90044be937b72d9f4e7a1f5
 SHA1: 912a6cf3cea1c725df51bb54ad4f849f27bdfa08
 SHA256: 5ec1491fdf630cdb2cbf218a10557d45e5a23271e775b066553cea543cf31c80
-Section: Utilities
+Section: Утилиты
 Priority: extra
 Description: Делает резервную копию одного твика
 Author: T.Herak <50dc856b@opayq.com>
@@ -18,16 +18,33 @@ Name: redeb
 Package: com.ichitaso.dropbear
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
+Maintainer: ichitaso
 Depends: firmware (>= 1.0)
 Filename: ./debs/com.ichitaso.dropbear_1.0_iphoneos-arm.deb
 Size: 1443938
 MD5sum: e9b4dce570417efcf8193b26a9e5b29b
 SHA1: 097324b16f748564365bca69a1c618cbc9a8aa3d
 SHA256: eff84cbb43d526d363a5a5e2f7a04af2c276bc8b0d8c2e6c7a8c51d8639f08ac
-Section: System
+Section: Система
 Priority: extra
 Description: Включает ssh по Wi-Fi
-Author: LaciaMemeFrame <dima.skolpin@icloud.com>
+Author: ichitaso
 Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.ichitaso.dropbear
 Name: dropbear
+
+Package: com.matdev.neofetch-ios
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: MatDev
+Depends: bash (>= 3.2), coreutils (>= 8.12-12p), coreutils-bin (>= 8.12-9), grep (>= 2.5.4-3), darwintools (>= 1-5), system-cmds (>= 433.8-14), gawk (>= 3.1.6-2p), firmware (>= 10.0)
+Filename: ./debs/com.matdev.neofetch-ios_1.0.0_iphoneos-arm.deb
+Size: 76126
+MD5sum: 30fa30384fe7a8705c0d5c74dd137f8c
+SHA1: 14cee3f76158d794680fc7dc47647bbdf4a724cc
+SHA256: 5dd824f3ff4c4568d9432f6473cfeaea6cbeb0b3c3cfb0daaa864d58d353af30
+Section: Твики
+Priority: extra
+Description: NeoFetch для iOS. Отображение системной информации в командной строке!
+Author: MatDev
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.matdev.neofetch-ios
+Name: NeoFetch-iOS

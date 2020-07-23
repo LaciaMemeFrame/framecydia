@@ -1,0 +1,27 @@
+<package>
+	<id>com.matdev.neofetch-ios</id>
+	<name>NeoFetch-iOS</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>bash (>= 3.2), coreutils (>= 8.12-12p), coreutils-bin (>= 8.12-9), grep (>= 2.5.4-3), darwintools (>= 1-5), system-cmds (>= 433.8-14), gawk (>= 3.1.6-2p), firmware (>= 10.0)</dependencies>
+	<descriptionlist>
+		<description>NeoFetch для iOS. Отображение системной информации в командной строке!</description>
+		<description>Это консольная утилита для ее использования введите в своем терминале neofetch.</description>
+	</descriptionlist>
+	<screenshots>
+	        <screenshot>
+			<description>Демонстрация</description>
+			<image>1.png</image>
+		    </screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Нету информации об этой версии</change>
+	</changelog>
+	<links></links>
+</package>
