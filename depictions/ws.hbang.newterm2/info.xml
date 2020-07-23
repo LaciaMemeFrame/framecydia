@@ -1,0 +1,27 @@
+<package>
+	<id>ws.hbang.newterm2</id>
+	<name>NewTerm (iOS 10 – 13)</name>
+	<version>2.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>13.6</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8</dependencies>
+	<descriptionlist>
+		<description>Мощный терминал для iOS</description>
+	</descriptionlist>
+	<screenshots>
+	        <screenshot>
+			<description>Демонстрация</description>
+			<image>1.png</image>
+		    </screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Добавляет повторение клавиш (нажмите и удерживайте) на клавишах со стрелками.  @lint - спасибо!
+  Исправлен сбой при запуске для iOS 12.1.4 и старше.</change>
+	</changelog>
+	<links></links>
+</package>
