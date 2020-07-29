@@ -60,6 +60,7 @@ MD5sum: 31391e56260b1ceb7af186c4da9612fe
 SHA1: 86bb88e8d418498590d5ab3e45d3b9ad36ba394d
 SHA256: 6973d4639bd965ccb3ce1fcea1f42bfcad876bd2752428ae8f75c580a8d2bc04
 Section: Твики
+Priority: extra
 Description: Взлом внутриигровых покупок
 Author: anondev
 Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=io.laciamemeframe.localiapstore
