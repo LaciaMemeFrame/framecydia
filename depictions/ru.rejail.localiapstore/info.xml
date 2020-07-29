@@ -1,0 +1,21 @@
+<package>
+	<id>ru.rejail.localiapstore</id>
+	<name>LocalIAPStore</name>
+	<version>1.4-4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+			<maxiOS>13.5</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>firmware (>= 7.0), mobilesubstrate, preferenceloader</dependencies>
+	<descriptionlist>
+		<description>Нажимаем купить, затем отменить. Если покупка не состоялась, значит данный твик не взламывает ваше приложение</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Нету информации об этой версии</change>
+	</changelog>
+	<links></links>
+</package>

@@ -48,3 +48,20 @@ Description: NeoFetch для iOS. Отображение системной ин
 Author: MatDev
 Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.matdev.neofetch-ios
 Name: NeoFetch-iOS
+
+Package: ru.rejail.localiapstore
+Version: 1.4-4
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./debs/ru.rejail.localiapstore_1.4-4_iphoneos-arm.deb
+Size: 70790
+MD5sum: dc10052dda9deffb9b21b8551909e78d
+SHA1: 21313b89bcc635ebae6cc34f9fc5e0f761883d29
+SHA256: ff958e8b7759c53a53455e97ae9db3d6d2faed060ac3b4b3eab3703d25f51c3a
+Section: Твики
+Priority: extra
+Description: Взлом внутриигровых покупок
+Author: anondev
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=ru.rejail.localiapstore
+Name: LocalIAPStore
