@@ -49,19 +49,19 @@ Author: MatDev
 Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.matdev.neofetch-ios
 Name: NeoFetch-iOS
 
-Package: ru.rejail.localiapstore
+Package: io.laciamemeframe.localiapstore
 Version: 1.4-4
 Architecture: iphoneos-arm
-Maintainer: ReJail <rejail@rejail.ru>
+Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
-Filename: ./debs/ru.rejail.localiapstore_1.4-4_iphoneos-arm.deb
-Size: 70790
-MD5sum: dc10052dda9deffb9b21b8551909e78d
-SHA1: 21313b89bcc635ebae6cc34f9fc5e0f761883d29
-SHA256: ff958e8b7759c53a53455e97ae9db3d6d2faed060ac3b4b3eab3703d25f51c3a
+Filename: ./debs/io.laciamemeframe.localiapstore_1.4-4_iphoneos-arm.deb
+Size: 70820
+MD5sum: fab40a1095ae21d0d1d11977d8184e66
+SHA1: d40d2b7566a45f1849c87603abfb3534a77aaad3
+SHA256: 30794a6d63b274127bf1672f6c17fa1d1e13d88f9d8ce82956749d5fcf15ef70
 Section: Твики
 Priority: extra
 Description: Взлом внутриигровых покупок
 Author: anondev
-Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=ru.rejail.localiapstore
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=io.laciamemeframe.localiapstore
 Name: LocalIAPStore
