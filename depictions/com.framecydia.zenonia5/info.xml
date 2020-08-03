@@ -10,13 +10,7 @@
 	<dependencies>mobilesubstrate</dependencies>
 	<descriptionlist>
 		<description>Читы для игры Zenonia 5</description>
-	    <description>Особенности читов</description>
-		<description>Бесплатные покупки (Gold)</description>
-		<description>Высокая цена продажи</description>
-		<description>Бессмертие</description>
-		<description>Отключена перезарядка навыков</description>
-		<description>Бесконечное SP</description>
-		<description>Высокий урон</description>
+	    <description>Особенности читов: Бесплатные покупки (Gold), Высокая цена продажи, Бессмертие, Отключена перезарядка навыков, Бесконечное SP, Высокий урон</description>
 	    <description>Чтобы работало нужен аккаунт iOSGods и установленная игра из AppStore желательно версии 1.1.3</description>
 		<description>Тестировалось на iPhone SE 10.0.2</description>	   
 	</descriptionlist>
@@ -33,7 +27,7 @@
 		<link>
 			<name>iOSGods</name>
 			<url>https://iOSGods.com</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<iconclass>fa fa-commenting</iconclass>
 		</link>
 	</links>
 </package>
