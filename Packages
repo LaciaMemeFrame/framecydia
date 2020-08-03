@@ -55,14 +55,12 @@ Architecture: iphoneos-arm
 Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.framecydia.zenonia5_1.1.3+iOSGods.com_iphoneos-arm.deb
-Size: 2430622
-MD5sum: fce601e557380260030edb15c1c1d737
-SHA1: 99707e312169acf73e61dc2767d3657ee2be0c72
-SHA256: 43d43fdd6c9aa37c0d2546f0d8c73d368872c9d31f80316367e0ac82795405bb
+Size: 2430598
+MD5sum: b777c01a95043a5be14a3c81cdfc3fc4
+SHA1: a9d6ab76a7e1058b43bf241b30596aa117fe79ba
+SHA256: 65016f260479491fa70ccfb30c10030dcd806e91edf22d28fc83179f551300cc
 Section: Читы
-Priority: extra
 Description: Читы на Zenonia 5
 Author: Zahir
 Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.zenonia5
 Name: Zenonia 5 Cheats
-Installed-Size: 8352
