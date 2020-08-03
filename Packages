@@ -1,28 +1,82 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.vsz.redeb
+Version: 1.0.3
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Maintainer: T.Herak <50dc856b@opayq.com>
+Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
+Filename: ./debs/com.vsz.redeb_1.0.3_iphoneos-arm.deb
+Size: 3572
+MD5sum: b5aa8718f90044be937b72d9f4e7a1f5
+SHA1: 912a6cf3cea1c725df51bb54ad4f849f27bdfa08
+SHA256: 5ec1491fdf630cdb2cbf218a10557d45e5a23271e775b066553cea543cf31c80
+Section: Утилиты
+Priority: extra
+Description: Делает резервную копию одного твика
+Author: T.Herak <50dc856b@opayq.com>
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.vsz.redeb
+Name: redeb
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Package: com.ichitaso.dropbear
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Maintainer: ichitaso
+Depends: firmware (>= 1.0)
+Filename: ./debs/com.ichitaso.dropbear_1.0_iphoneos-arm.deb
+Size: 1443938
+MD5sum: e9b4dce570417efcf8193b26a9e5b29b
+SHA1: 097324b16f748564365bca69a1c618cbc9a8aa3d
+SHA256: eff84cbb43d526d363a5a5e2f7a04af2c276bc8b0d8c2e6c7a8c51d8639f08ac
+Section: Система
+Priority: extra
+Description: Включает ssh по Wi-Fi
+Author: ichitaso
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.ichitaso.dropbear
+Name: dropbear
 
+Package: com.framecydia.zenonia5
+Version: 1.1.3+iOSGods.com
+Architecture: iphoneos-arm
+Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.framecydia.zenonia5_1.1.3+iOSGods.com_iphoneos-arm.deb
+Size: 2430598
+MD5sum: b777c01a95043a5be14a3c81cdfc3fc4
+SHA1: a9d6ab76a7e1058b43bf241b30596aa117fe79ba
+SHA256: 65016f260479491fa70ccfb30c10030dcd806e91edf22d28fc83179f551300cc
+Section: Читы
+Description: Читы на Zenonia 5
+Author: Zahir
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.zenonia5
+Name: Zenonia 5 Cheats
+
+Package: com.matdev.neofetch-ios
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: MatDev
+Depends: bash (>= 3.2), coreutils (>= 8.12-12p), coreutils-bin (>= 8.12-9), grep (>= 2.5.4-3), darwintools (>= 1-5), system-cmds (>= 433.8-14), gawk (>= 3.1.6-2p), firmware (>= 10.0)
+Filename: ./debs/com.matdev.neofetch-ios_1.0.0_iphoneos-arm.deb
+Size: 76126
+MD5sum: 30fa30384fe7a8705c0d5c74dd137f8c
+SHA1: 14cee3f76158d794680fc7dc47647bbdf4a724cc
+SHA256: 5dd824f3ff4c4568d9432f6473cfeaea6cbeb0b3c3cfb0daaa864d58d353af30
+Section: Твики
+Priority: extra
+Description: NeoFetch для iOS. Отображение системной информации в командной строке!
+Author: MatDev
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.matdev.neofetch-ios
+Name: NeoFetch-iOS
+
+Package: com.framecydia.criticalops
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.framecydia.criticalops_1.0_iphoneos-arm.deb
+Size: 1873656
+MD5sum: a1fcaca61dd8d4085b7e4f815c34bf0f
+SHA1: 7ca1c4e44a2fb43085dae055340c9ec1beccff4c
+SHA256: 75888f4034369dcefc216ba1d6dded65f036682d49a5c3bf33cbd74a89dc1fba
+Section: Читы
+Description: Чит на Critical Ops
+Author: busmanl30
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.criticalops
+Name: Critical Ops Cheats
