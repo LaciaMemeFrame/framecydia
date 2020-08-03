@@ -1,0 +1,33 @@
+<package>
+	<id>com.framecydia.criticalops</id>
+	<name>Critical Ops Cheats</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<descriptionlist>
+		<description>Чит для игры Critical Ops</description>
+	    <description>Особенности чита: валхак</description>
+	    <description>Чтобы работало нужен аккаунт iOSGods и установленная игра из AppStore желательно версии 1.1.3</description>
+		<description>Тестировалось на iPhone SE 10.0.2</description>	   
+	</descriptionlist>
+	<screenshots>
+	        <screenshot>
+			<description>Меню чита</description>
+			<image>1.jpg</image>
+		    </screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Нету информации об этой версии</change>
+	</changelog>
+	<links>
+		<link>
+			<name>iOSGods</name>
+			<url>https://iOSGods.com</url>
+			<iconclass>fa fa-commenting</iconclass>
+		</link>
+	</links>
+</package>

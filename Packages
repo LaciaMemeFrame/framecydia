@@ -64,3 +64,19 @@ Description: NeoFetch для iOS. Отображение системной ин
 Author: MatDev
 Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.matdev.neofetch-ios
 Name: NeoFetch-iOS
+
+Package: com.framecydia.criticalops
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.framecydia.criticalops_1.0_iphoneos-arm.deb
+Size: 1873656
+MD5sum: a1fcaca61dd8d4085b7e4f815c34bf0f
+SHA1: 7ca1c4e44a2fb43085dae055340c9ec1beccff4c
+SHA256: 75888f4034369dcefc216ba1d6dded65f036682d49a5c3bf33cbd74a89dc1fba
+Section: Читы
+Description: Чит на Critical Ops
+Author: busmanl30
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.criticalops
+Name: Critical Ops Cheats
