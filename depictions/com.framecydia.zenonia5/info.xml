@@ -10,7 +10,7 @@
 	<dependencies>mobilesubstrate</dependencies>
 	<descriptionlist>
 		<description>Читы для игры Zenonia 5</description>
-	    <description><b>Особенности читов</b></description>
+	    <description>Особенности читов</description>
 		<description>Бесплатные покупки (Gold)</description>
 		<description>Высокая цена продажи</description>
 		<description>Бессмертие</description>
@@ -29,5 +29,11 @@
 	<changelog>
 		<change>Нету информации об этой версии</change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>iOSGods</name>
+			<url>https://iOSGods.com</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>
