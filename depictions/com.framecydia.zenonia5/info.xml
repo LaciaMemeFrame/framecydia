@@ -29,11 +29,5 @@
 	<changelog>
 		<change>Нету информации об этой версии</change>
 	</changelog>
-	<links>
-		    <link>
-			<name>iOSGods</name>
-			<url>https://iOSGods.com</url>
-			<iconclass>fa a-commenting</iconclass>
-		    </link>
-	</links>
+	<links></links>
 </package>
