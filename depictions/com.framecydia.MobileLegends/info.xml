@@ -1,0 +1,33 @@
+<package>
+	<id>com.framecydia.MobileLegends</id>
+	<name>Mobile Legends: Bang Bang Cheats</name>
+	<version>1.1.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<descriptionlist>
+		<description>Чит на Mobile Legends: Bang Bang</description>
+	    <description>Особенности чита: радархак</description>
+	    <description>Чтобы работало нужен аккаунт iOSGods и установленная игра из AppStore желательно версии 1.4.96.539.1</description>
+		<description>Тестировалось на iPhone SE 10.0.2</description>	   
+	</descriptionlist>
+	<screenshots>
+	        <screenshot>
+			<description>Работоспособность</description>
+			<image>1.jpg</image>
+		    </screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Нету информации об этой версии</change>
+	</changelog>
+	<links>
+		<link>
+			<name>iOSGods</name>
+			<url>https://iOSGods.com</url>
+			<iconclass>fa fa-commenting</iconclass>
+		</link>
+	</links>
+</package>

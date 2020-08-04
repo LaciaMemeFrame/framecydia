@@ -80,3 +80,19 @@ Description: Чит на Critical Ops
 Author: busmanl30
 Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.criticalops
 Name: Critical Ops Cheats
+
+Package: com.framecydia.MobileLegends
+Version: 1.1.1.1
+Architecture: iphoneos-arm
+Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.framecydia.MobileLegends_1.1.1.1_iphoneos-arm.deb
+Size: 2031612
+MD5sum: 0355f5e543feca183a73e2e5da699aa7
+SHA1: 48ba8865f7d7f0fe7e767ac15e63c04fd8eead38
+SHA256: 5cfb7e9268921d130127db46da33411a1d6245391edb7cbceeeab16a7ecac3e3
+Section: Читы
+Description: Чит на Mobile Legends: Bang Bang
+Author: DiDA
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.MobileLegends
+Name: Mobile Legends: Bang Bang Cheats
