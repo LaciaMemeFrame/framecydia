@@ -11,6 +11,9 @@
 	<dependencies>mobilesubstrate</dependencies>
 	<descriptionlist>
 		<description>Изменяет разрешение экрана iOS!</description>
+		<description>Разрешение iPhone 6: 750x1334</description>
+		<description>Разрешение iPhone 6 Plus: 828x1472</description>
+		<description>Разрешение iPhone 5C/5S/SE: 640x1136</description>
 	</descriptionlist>
 	<screenshots>
 	</screenshots>
