@@ -96,3 +96,19 @@ Description: Чит на Mobile Legends: Bang Bang
 Author: DiDA
 Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.MobileLegends
 Name: Mobile Legends: Bang Bang Cheats
+
+Package: com.framecydia.upscale
+Version: 0.0.1-16
+Architecture: iphoneos-arm
+Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.framecydia.upscale_0.0.1-16_iphoneos-arm.deb
+Size: 7652
+MD5sum: 4e95bf52c4ff38037590d68e3a74deb1
+SHA1: f449d95d9cb4a717a42479e1eaed8bc586ceb231
+SHA256: 551847c38e6fdfbf01155d7069a80665c1641b933c05b85da43bb288d71febb6
+Section: Твики
+Description: Изменяет разрешение экрана iOS!
+Author: bd452
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.upscale
+Name: Upscale

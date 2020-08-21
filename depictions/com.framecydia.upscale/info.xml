@@ -1,0 +1,21 @@
+<package>
+	<id>com.framecydia.upscale</id>
+	<name>Upscale</name>
+	<version>0.0.1-16</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>10.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<descriptionlist>
+		<description>Изменяет разрешение экрана iOS!</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Нету информации об этой версии</change>
+	</changelog>
+	<links></links>
+</package>
