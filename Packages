@@ -118,7 +118,7 @@ Version: 2.4.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.framecydia.gesturesxs_2.4.0-1+debug_iphoneos-arm
+Filename: ./debs/com.framecydia.gesturesxs_2.4.0-1+debug_iphoneos-arm.deb
 Size: 10458
 MD5sum: dd201ae7d899a30680ea1ce4cb00bb57
 SHA1: 9450db74ff89d76abeeba918a0902bb586b6b3fb
