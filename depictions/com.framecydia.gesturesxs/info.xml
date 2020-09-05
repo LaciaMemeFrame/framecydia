@@ -1,0 +1,21 @@
+<package>
+	<id>com.framecydia.gesturesxs</id>
+	<name>GesturesXS</name>
+	<version>2.4.0-1+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.4.8</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<descriptionlist>
+		<description>Жесты с iPhone X и ничего больше!</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+		<change>Нету информации об этой версии</change>
+	</changelog>
+	<links></links>
+</package>

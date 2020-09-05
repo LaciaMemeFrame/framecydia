@@ -112,3 +112,19 @@ Description: Изменяет разрешение экрана iOS!
 Author: bd452
 Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.upscale
 Name: Upscale
+
+Package: com.framecydia.gesturesxs
+Version: 2.4.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.framecydia.gesturesxs_2.4.0-1+debug_iphoneos-arm
+Size: 10458
+MD5sum: dd201ae7d899a30680ea1ce4cb00bb57
+SHA1: 9450db74ff89d76abeeba918a0902bb586b6b3fb
+SHA256: 95c157a03f697d69a46252a63c275809874244357f2a48f805ac2a39454fc76a
+Section: Твики
+Description: Жесты с iPhone X и ничего больше!
+Author: Ryan Nair
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.gesturesxs
+Name: GesturesXS
