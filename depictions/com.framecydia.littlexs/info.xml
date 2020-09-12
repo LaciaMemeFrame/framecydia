@@ -1,0 +1,22 @@
+<package>
+	<id>com.framecydia.littlexs</id>
+	<name>LittleXS</name>
+	<version>2.4.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.4.8</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate, preferenceloader</dependencies>
+	<descriptionlist>
+		<description>LittleX обновлён для iOS 12.</description>	   
+	</descriptionlist>
+	<screenshots>	
+	</screenshots>
+	<changelog>
+		<change>Нету информации об этой версии</change>
+	</changelog>
+	<links>
+	</links>
+</package>

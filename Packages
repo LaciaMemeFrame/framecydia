@@ -128,3 +128,22 @@ Description: Жесты с iPhone X и ничего больше!
 Author: Ryan Nair
 Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.gesturesxs
 Name: GesturesXS
+
+Package: com.framecydia.littlexs
+Version: 2.4.4
+Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.vitataf.homegesture, com.ioscreatix.littlex
+Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.vitataf.homegesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.vitataf.homegesture, com.ioscreatix.littlex
+Architecture: iphoneos-arm
+Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.framecydia.littlexs_2.4.4_iphoneos-arm.deb
+Size: 34738
+MD5sum: 8bfae294f4fd290f34f990520410c8bc
+SHA1: 4e4bd77a80459f747d2a317979233513a0e09761
+SHA256: cbfe8cde8d1affd60d822db94cda7f0ae287105e80a8576cb2886bdcd24c4f65
+Section: Твики
+Description: LittleX обновлён для iOS 12.
+Author: binksalex & Ryan Nair
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.littlexs
+Name: LittleXS
