@@ -138,10 +138,10 @@ Architecture: iphoneos-arm
 Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.framecydia.littlexs_2.4.4_iphoneos-arm.deb
-Size: 34738
-MD5sum: 8bfae294f4fd290f34f990520410c8bc
-SHA1: 4e4bd77a80459f747d2a317979233513a0e09761
-SHA256: cbfe8cde8d1affd60d822db94cda7f0ae287105e80a8576cb2886bdcd24c4f65
+Size: 34778
+MD5sum: 02badaee2d884ff84b3667aac19b9650
+SHA1: 8d147cba104920b5c8c21c4c10508df4fffbfbe3
+SHA256: 130f5ed67cd20778118c594c13b9cd4f6b2b94285025e0b314f19075a5f11446
 Section: Твики
 Description: LittleX обновлён для iOS 12.
 Author: binksalex & Ryan Nair
