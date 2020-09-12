@@ -147,3 +147,19 @@ Description: LittleX обновлён для iOS 12.
 Author: binksalex & Ryan Nair
 Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.littlexs
 Name: LittleXS
+
+Package: ru.framecydia.systeminfo
+Version: 2.7.2-1
+Architecture: iphoneos-arm
+Maintainer: LaciaMemeFrame <dima.skolpin@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/ru.framecydia.systeminfo_2.7.2-1_iphoneos-arm.deb
+Size: 428044
+MD5sum: 5aa96116f99b5255fecced7dc80c49dc
+SHA1: 761657098d93521cfb42f32b58a829b6592eaab9
+SHA256: 9c16067156e23e4003ff2eca7021e0dd5ca3ce3b57d68a8f008f899bbd9262bb
+Section: Твики
+Description: Расширенные сведения о системе
+Author: ARX8x
+Depiction: https://laciamemeframe.github.io/framecydia/depictions/?p=com.framecydia.systeminfo
+Name: System Info

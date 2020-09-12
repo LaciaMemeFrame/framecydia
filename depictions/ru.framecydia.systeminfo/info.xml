@@ -1,0 +1,22 @@
+<package>
+	<id>ru.framecydia.systeminfo</id>
+	<name>System Info</name>
+	<version>2.7.2-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.4.8</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<descriptionlist>
+		<description>Расширенные сведения о системе</description>	   
+	</descriptionlist>
+	<screenshots>	
+	</screenshots>
+	<changelog>
+		<change>Нету информации об этой версии</change>
+	</changelog>
+	<links>
+	</links>
+</package>
